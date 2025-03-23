@@ -13,6 +13,6 @@ Welcome to the **Coffee Shop**, a beautifully designed static website showcasing
 - **JavaScript**: Adding interactivity and dynamic elements.
 
 ## Live Demo
-Visit the live demo of this project: [Live Coffee Shop Website](https://your-username.github.io/Coffee-Shop)
+Visit the live demo of this project: [Live Coffee Shop Website](https://bedersaad.github.io/Coffee-Shop/)
 
 Enjoy your coffee journey! ☕
