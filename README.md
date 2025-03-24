@@ -15,4 +15,7 @@ Welcome to the **Coffee Shop**, a beautifully designed static website showcasing
 ## Live Demo
 Visit the live demo of this project: [Live Coffee Shop Website](https://bedersaad.github.io/Coffee-Shop/)
 
+## Image
+![Uploading image.png…]()
+
 Enjoy your coffee journey! ☕
